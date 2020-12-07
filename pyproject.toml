@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "pyday2020-counting-votes-with-dask"
+version = "0.1.0"
+description = ""
+authors = ["Alberto Camara <camara@protonmail.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pandas = "^1.1.4"
+dask = {extras = ["dataframe"], version = "^2.30.0"}
+jupyterlab = "^2.2.9"
+ipython = "^7.19.0"
+jupyterlab-git = "^0.23.2"
+dask-labextension = "^3.0.0"
+pyarrow = "^2.0.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
