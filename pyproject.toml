@@ -14,6 +14,7 @@ ipython = "^7.19.0"
 jupyterlab-git = "^0.23.2"
 dask-labextension = "^3.0.0"
 pyarrow = "^2.0.0"
+matplotlib = "^3.3.3"
 
 [tool.poetry.dev-dependencies]
 
