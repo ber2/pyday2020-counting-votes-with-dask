@@ -22,7 +22,7 @@ first case and have used the [Dask JupyterLab Extension](https://github.com/dask
 
 ## Video for the talk
 
-The talk will be published in the [PyBCN Youtube channel](https://www.youtube.com/channel/UCEhI2CfdT5--TYq47K4en4A). A more precise link will be made available after the event.
+The video for the talk is available [here](https://www.youtube.com/watch?v=KOpW86J56CU).
 
 ## Slides for the talk
 
